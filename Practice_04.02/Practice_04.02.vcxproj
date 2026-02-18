@@ -130,6 +130,10 @@
     <ClCompile Include="Task1.cpp" />
     <ClCompile Include="Task2.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="forbidden.txt" />
+    <Text Include="input.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
