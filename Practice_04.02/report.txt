@@ -1,0 +1,21 @@
+Line: 1
+Position: 7
+Word: снег
+Context: Снег, снег и ещё раз снег.
+
+Line: 1
+Position: 22
+Word: снег
+Context: Снег, снег и ещё раз снег.
+
+Line: 2
+Position: 9
+Word: снег
+Context: Сегодня снег особенно сильный.
+
+Line: 2
+Position: 23
+Word: сильный
+Context: Сегодня снег особенно сильный.
+
+Total: 4
